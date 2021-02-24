@@ -33,8 +33,9 @@ If you have a battery holder skip these 2 steps.
   - If you don't have battery holder, you can make one easily by printing first the Battery Holder by uploading it's file in Cura.
   - Add in some wires as shown in the pictures in the electronics folder, and your battery holder is done.
   
-  - Print the Liquid Recipient first by uploading the .obj or .stl files in Cura.
-  The Printing settings are specified in the Picture provided in the 3D Files folder
+Print the Liquid Recipient first by uploading the .obj or .stl files in Cura.
+
+The Printing settings are specified in the Picture provided in the 3D Files folder
 
 Finally assemble.
 
